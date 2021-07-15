@@ -58,7 +58,7 @@
   team: "local-committee"
   social:
     - {name: "site", link: "https://www.manchester.ac.uk/discover/news/dr-jelena-ponocko-appointed-ieee-pes-women-in-power-representative/"}
--
+- 
   id: 6
   name: "Mrs Chris"
   surname: "Wall"
@@ -68,7 +68,7 @@
   team: "local-committee"
   social:
     - {name: "email", link: "mailto:info@pmaps2022.org"}
--
+  -
   id: 7
   name: "Prof. Alfredo"
   surname: "Testa"
@@ -76,7 +76,7 @@
   affiliation: "University of Campania Luigi Vanvitelli, Italy"
   thumbnailUrl: ""
   team: "steering-committee"
--
+  -
   id: 8
   name: "Prof. Lalit"
   surname: "Goel"
@@ -84,7 +84,7 @@
   affiliation: "Nanyang Technological University, Singapore"
   thumbnailUrl: ""
   team: "steering-committee"
--
+  -
   id: 9
   name: "Prof. Wenyuan"
   surname: "Li"
@@ -92,7 +92,7 @@
   affiliation: "Chongqing University, China"
   thumbnailUrl: ""
   team: "steering-committee"
--
+  -
   id: 10
   name: "Prof. Louis"
   surname: "Wehenkel"
@@ -100,15 +100,15 @@
   affiliation: "University of Liege, Belgium"
   thumbnailUrl: ""
   team: "steering-committee"
--
+  -
   id: 11
   name: "Dr Milorad"
   surname: "Papić"
   title: ""
-  affiliation: "Idaho Power Boise, Canada"
+  affiliation: "Independent Consultant, Boise, USA"
   thumbnailUrl: ""
   team: "steering-committee"
-#-
+  #-
 #  id: 6
 #  name: "Alessandra"
 #  surname: "Parisio"
