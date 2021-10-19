@@ -90,7 +90,7 @@ heroButtons:
 #  - {permalink: "/registration", text: "Register"}
   - {permalink: "/#important-dates", text: "Important dates"}
   - {permalink: "/author-info/#call-for-papers", text: "Call for submissions"}
-  - {permalink: "/author-info/#paper-submission-for-review", text: "Paper submission"}
+  - {permalink: "/author-info/#paper-submission", text: "Paper submission"}
   - {permalink: "/sponsorship/#become-sponsor", text: "Become a sponsor"}
 
 # About Block
