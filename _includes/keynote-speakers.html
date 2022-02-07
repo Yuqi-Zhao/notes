@@ -1,8 +1,10 @@
 <!-- Begin Speakers List 2-->
 <section id="speakers">
-    <div class="content-wrapper">
-        <div class="col-lg-10 col-lg-offset-1 appear-animation-trigger">
+    <div class="content-wrapper" style="padding-left: 50px;">
             {% for speaker in site.data.speakers %}
+       <div class="col-lg-10 col-lg-offset-1 text-left">
+            <p class="text-left">The keynote speakers are listed in alphabetical order.</p>
+        </div>
             <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 appear-animation">
                 <div class="zoe-effect ribbon-activator" data-toggle="modal" data-target="#speakerDetail-{{ speaker.id }}">
                     <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})">
@@ -36,7 +38,7 @@
                 </div>
             </div>
             {% endfor %}
-        </div>
+<!--         </div>-->
 <!--        <a href="{{ site.c4pUrl }}" class="bottom-section-link btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">Become a speaker</a>         -->
     </div>
 </section>
