@@ -8,14 +8,6 @@
   team: "keynote-speaker"
 -
   id: 2
-  name: "Prof Danielle George"
-  surname: ""
-  title: ""
-  affiliation: "FIET, Past President IET, UK"
-  thumbnailUrl: ""
-  team: "keynote-speaker"
--
-  id: 3
   name: "Prof Antonio Conejo"
   surname: ""
   title: ""
@@ -23,11 +15,19 @@
   thumbnailUrl: ""
   team: "keynote-speaker"
 -
-  id: 4
+  id: 3
   name: "Prof Chongqing Kang"
   surname: ""
   title: ""
   affiliation: "FIEEE, Tsinghua University, China"
+  thumbnailUrl: ""
+  team: "keynote-speaker"
+-
+  id: 4
+  name: "Prof Danielle George"
+  surname: ""
+  title: ""
+  affiliation: "FIET, Past President IET, UK"
   thumbnailUrl: ""
   team: "keynote-speaker"
 #  id: 0
