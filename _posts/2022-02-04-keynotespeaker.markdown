@@ -6,6 +6,4 @@ isStaticPost: true
 ---
 Keynote speakers have now been announced! 
 
-Check [keynote speakers]({{ site.baseurl }}/Programme/#keynote-speakers)!
-
-Check <a href="{{ site.baseurl }}/Programme/#keynote-speakers">keynote speakers</a>!                                                                                                       
+Check [keynote speakers]({{ site.baseurl }}/programme/#keynote-speakers)!
